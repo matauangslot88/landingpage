@@ -1,5 +1,5 @@
 <html lang="id-ID"><head><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
-<link href="https://threatenedtaxa.org/ rel="preconnect">
+<link href="https://threatenedtaxa.org/jottings/ rel="preconnect">
 <meta charset="utf-8">
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
@@ -7,7 +7,7 @@
 <title>NONO4D | Pilihan Situs Slot88 Terbaik Fasilitas Slot Gacor Gampang Maxwin Bet 200 Hari Ini</title>
 <meta name="title" content="NONO4D | Pilihan Situs Slot88 Terbaik Fasilitas Slot Gacor Gampang Maxwin Bet 200 Hari Ini">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://threatenedtaxa.org/>
+<link rel="canonical" href="https://threatenedtaxa.org/jottings/>
 <link rel="amphtml" href="https://pamapersada-group.com/media/contact/threatenedtaxa/">
 <link rel="alternate" href="https://pamapersada-group.com/media/contact/threatenedtaxa/">
 <link rel="alternate" href="https://pamapersada-group.com/media/contact/threatenedtaxa/" hreflang="id">
@@ -19,12 +19,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="NONO4D | Pilihan Situs Slot88 Terbaik Fasilitas Slot Gacor Gampang Maxwin Bet 200 Hari Ini">
 <meta name="twitter:description" content="NONO4D pilihan situs slot88 terbaik dan layanan fasilitas slot gacor paling gampang maxwin dengan minimal bet 200 menjadikan nya paling mudah Witdraw hari ini.">
-<meta name="twitter:url" content="https://threatenedtaxa.org/>
+<meta name="twitter:url" content="https://threatenedtaxa.org/jottings/>
 <meta name="twitter:image" content="https://blogger.googleusercontent.com/img/a/AVvXsEi5cVWcmg4End3IKBM5AiZi260ljLASDzl8MaKfeW9forMfzxt7u_ojKcNx7ozhdvuDylt9Pw_6fdd2np6sJPev75OL4RY4vrQNMhMVbjZM_k8iBFRzbYaiw1xdx-LKqoY-uws8DUPylpvzpOFvSGn9y6CymItUqicqeS5coAQHxWPvTBIcKGDqMZq5Y0w">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Demo">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://threatenedtaxa.org/>
+<meta property="og:url" content="https://threatenedtaxa.org/jottings/>
 <meta property="og:title" content="NONO4D | Pilihan Situs Slot88 Terbaik Fasilitas Slot Gacor Gampang Maxwin Bet 200 Hari Ini">
 <meta property="og:description" content="NONO4D pilihan situs slot88 terbaik dan layanan fasilitas slot gacor paling gampang maxwin dengan minimal bet 200 menjadikan nya paling mudah Witdraw hari ini.">
 <meta property="og:image" content="https://blogger.googleusercontent.com/img/a/AVvXsEjJWtCIt2l0chuUZ36kod6f-TxtzpYewW211BuUtzpfLw-qpVvmp2mucvqEa8AZAjU-nlfQNfQFTMWpdKlf3gkOKIiKC9v1Cy1bBHspyW3yO2tLEPaiZr9NEcDVDHaAU_-lOqTpcDW7dWV07T-02TfaxPFl5SNdCl5bHRrnuwsSkx9qka4cjurLMMDtz1M">
@@ -690,10 +690,12 @@ digitalData.page.pageInfo.pageName = pageName;
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://threatenedtaxa.org/#organization",
+        "@id": "https://threatenedtaxa.org/jottings/#organization",
         "name": "R10",
-        "url": "https://threatenedtaxa.org/,
-        "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEi5cVWcmg4End3IKBM5AiZi260ljLASDzl8MaKfeW9forMfzxt7u_ojKcNx7ozhdvuDylt9Pw_6fdd2np6sJPev75OL4RY4vrQNMhMVbjZM_k8iBFRzbYaiw1xdx-LKqoY-uws8DUPylpvzpOFvSGn9y6CymItUqicqeS5coAQHxWPvTBIcKGDqMZq5Y0w",
+        "url": "https://threatenedtaxa.org/jottings/,
+        "logo": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEi5cVWcmg4End3IKBM5AiZi260ljLASDzl8MaKfeW9forMfzxt7u_ojKcNx7ozhdvuDylt9Pw_6fdd2np6sJPev75OL4RY4vrQNMhMVbjZM_k8iBFRzbYaiw1xdx-LKqoY-uws8DUPylpvzpOFvSGn9y6CymItUqicqeS5coAQHxWPvTBIcKGDqMZq5Y0w"
+        ],
         "sameAs": [
           "https://facebook.com/demo",
           "https://instagram.com/demo",
@@ -718,32 +720,32 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "BreadcrumbList",
-        "@id": "https://threatenedtaxa.org/#breadcrumb",
+        "@id": "https://threatenedtaxa.org/jottings/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Demo",
-            "item": "https://threatenedtaxa.org/-Demo"
+            "item": "https://threatenedtaxa.org/jottings/-Demo"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "SLOT GACOR",
-            "item": "https://threatenedtaxa.org/-Demo-Slot"
+            "item": "https://threatenedtaxa.org/jottings/-Demo-Slot"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "NONO4D",
-            "item": "https://threatenedtaxa.org/-Slot-Demo"
+            "item": "https://threatenedtaxa.org/jottings/-Slot-Demo"
           }
         ]
       },
 
       {
         "@type": "Product",
-        "@id": "https://threatenedtaxa.org/demo#product",
+        "@id": "https://threatenedtaxa.org/jottings/demo#product",
         "name": "R10",
         "image": [
           "https://blogger.googleusercontent.com/img/a/AVvXsEjJWtCIt2l0chuUZ36kod6f-TxtzpYewW211BuUtzpfLw-qpVvmp2mucvqEa8AZAjU-nlfQNfQFTMWpdKlf3gkOKIiKC9v1Cy1bBHspyW3yO2tLEPaiZr9NEcDVDHaAU_-lOqTpcDW7dWV07T-02TfaxPFl5SNdCl5bHRrnuwsSkx9qka4cjurLMMDtz1M"
@@ -755,7 +757,7 @@ digitalData.page.pageInfo.pageName = pageName;
         },
         "sku": "Demo-Slot-Terlengkap",
         "category": "Slot Online",
-        "url": "https://threatenedtaxa.org/,
+        "url": "https://threatenedtaxa.org/jottings/,
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
@@ -799,7 +801,7 @@ digitalData.page.pageInfo.pageName = pageName;
         ],
         "offers": {
           "@type": "Offer",
-          "url": "https://threatenedtaxa.org/,
+          "url": "https://threatenedtaxa.org/jottings/,
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -808,7 +810,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "ItemList",
-        "@id": "https://threatenedtaxa.org/#merchant-listing",
+        "@id": "https://threatenedtaxa.org/jottings/#merchant-listing",
         "name": "SLOT GACOR",
         "itemListOrder": "https://schema.org/ItemListOrderDescending",
         "itemListElement": [
@@ -817,9 +819,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 1,
             "item": {
               "@type": "Product",
-              "@id": "https://threatenedtaxa.org//demo-slot#product",
+              "@id": "https://threatenedtaxa.org/jottings//demo-slot#product",
               "name": "Demo",
-              "url": "https://threatenedtaxa.org//demo-slot",
+              "url": "https://threatenedtaxa.org/jottings//demo-slot",
               "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjJWtCIt2l0chuUZ36kod6f-TxtzpYewW211BuUtzpfLw-qpVvmp2mucvqEa8AZAjU-nlfQNfQFTMWpdKlf3gkOKIiKC9v1Cy1bBHspyW3yO2tLEPaiZr9NEcDVDHaAU_-lOqTpcDW7dWV07T-02TfaxPFl5SNdCl5bHRrnuwsSkx9qka4cjurLMMDtz1M",
               "description": "NONO4D pilihan situs slot88 terbaik dan layanan fasilitas slot gacor paling gampang maxwin dengan minimal bet 200 menjadikan nya paling mudah Witdraw hari ini.",
               "brand": {
@@ -834,7 +836,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://threatenedtaxa.org//demo-slot",
+                "url": "https://threatenedtaxa.org/jottings//demo-slot",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -846,9 +848,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 2,
             "item": {
               "@type": "Product",
-              "@id": "https://threatenedtaxa.org//#product",
+              "@id": "https://threatenedtaxa.org/jottings//#product",
               "name": "Demo",
-              "url": "https://threatenedtaxa.org/,
+              "url": "https://threatenedtaxa.org/jottings/,
               "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjJWtCIt2l0chuUZ36kod6f-TxtzpYewW211BuUtzpfLw-qpVvmp2mucvqEa8AZAjU-nlfQNfQFTMWpdKlf3gkOKIiKC9v1Cy1bBHspyW3yO2tLEPaiZr9NEcDVDHaAU_-lOqTpcDW7dWV07T-02TfaxPFl5SNdCl5bHRrnuwsSkx9qka4cjurLMMDtz1M",
               "description": "NONO4D pilihan situs slot88 terbaik dan layanan fasilitas slot gacor paling gampang maxwin dengan minimal bet 200 menjadikan nya paling mudah Witdraw hari ini.",
               "brand": {
@@ -863,7 +865,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://threatenedtaxa.org/,
+                "url": "https://threatenedtaxa.org/jottings/,
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -875,9 +877,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 3,
             "item": {
               "@type": "Product",
-              "@id": "https://threatenedtaxa.org//Demo-Slot#product",
+              "@id": "https://threatenedtaxa.org/jottings//Demo-Slot#product",
               "name": "Demo",
-              "url": "https://threatenedtaxa.org//Demo-Slot",
+              "url": "https://threatenedtaxa.org/jottings//Demo-Slot",
               "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjJWtCIt2l0chuUZ36kod6f-TxtzpYewW211BuUtzpfLw-qpVvmp2mucvqEa8AZAjU-nlfQNfQFTMWpdKlf3gkOKIiKC9v1Cy1bBHspyW3yO2tLEPaiZr9NEcDVDHaAU_-lOqTpcDW7dWV07T-02TfaxPFl5SNdCl5bHRrnuwsSkx9qka4cjurLMMDtz1M",
               "description": "NONO4D pilihan situs slot88 terbaik dan layanan fasilitas slot gacor paling gampang maxwin dengan minimal bet 200 menjadikan nya paling mudah Witdraw hari ini.",
               "brand": {
@@ -892,7 +894,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://threatenedtaxa.org//Demo-Slot",
+                "url": "https://threatenedtaxa.org/jottings//Demo-Slot",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -910,27 +912,27 @@ digitalData.page.pageInfo.pageName = pageName;
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://threatenedtaxa.org/#org",
+      "@id": "https://threatenedtaxa.org/jottings/#org",
       "name": "Demo",
-      "url": "https://threatenedtaxa.org/,
+      "url": "https://threatenedtaxa.org/jottings/,
       "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjJWtCIt2l0chuUZ36kod6f-TxtzpYewW211BuUtzpfLw-qpVvmp2mucvqEa8AZAjU-nlfQNfQFTMWpdKlf3gkOKIiKC9v1Cy1bBHspyW3yO2tLEPaiZr9NEcDVDHaAU_-lOqTpcDW7dWV07T-02TfaxPFl5SNdCl5bHRrnuwsSkx9qka4cjurLMMDtz1M"
     },
     {
       "@type": "WebSite",
-      "@id": "https://threatenedtaxa.org/#website",
-      "url": "https://threatenedtaxa.org/,
+      "@id": "https://threatenedtaxa.org/jottings/#website",
+      "url": "https://threatenedtaxa.org/jottings/,
       "name": "Demo",
-      "publisher": { "@id": "https://threatenedtaxa.org/#org" },
+      "publisher": { "@id": "https://threatenedtaxa.org/jottings/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://threatenedtaxa.org/?s={search_term_string}",
+        "target": "https://threatenedtaxa.org/jottings/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://threatenedtaxa.org/#app",
+      "@id": "https://threatenedtaxa.org/jottings/#app",
       "name": "Demo",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -1039,7 +1041,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="slot" class="nv00-gnb-v4__logo" href="https://threatenedtaxa.org/>
+       <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="slot" class="nv00-gnb-v4__logo" href="https://threatenedtaxa.org/jottings/>
         <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi5cVWcmg4End3IKBM5AiZi260ljLASDzl8MaKfeW9forMfzxt7u_ojKcNx7ozhdvuDylt9Pw_6fdd2np6sJPev75OL4RY4vrQNMhMVbjZM_k8iBFRzbYaiw1xdx-LKqoY-uws8DUPylpvzpOFvSGn9y6CymItUqicqeS5coAQHxWPvTBIcKGDqMZq5Y0w" alt="" width="200" height="56">
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1321,7 +1323,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://threatenedtaxa.org/ role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://threatenedtaxa.org/jottings/ role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             NONO4D
             </span>
@@ -1338,7 +1340,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://threatenedtaxa.org/ role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://threatenedtaxa.org/jottings/ role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              NONO4D
             </span>
@@ -1352,7 +1354,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://threatenedtaxa.org/ role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://threatenedtaxa.org/jottings/ role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT ONLINE
             </span>
@@ -1366,7 +1368,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://threatenedtaxa.org/ role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://threatenedtaxa.org/jottings/ role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT GACOR
             </span>
@@ -1380,7 +1382,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://threatenedtaxa.org/ role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://threatenedtaxa.org/jottings/ role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT88 LOGIN
             </span>
@@ -1394,7 +1396,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://threatenedtaxa.org/ role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://threatenedtaxa.org/jottings/ role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT88 RESMI
             </span>
@@ -1427,7 +1429,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="DEMO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="DEMO DAFTAR. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://threatenedtaxa.org/ role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="DEMO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="DEMO DAFTAR. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://threatenedtaxa.org/jottings/ role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1435,10 +1437,10 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://threatenedtaxa.org/ href="https://threatenedtaxa.org/ role="menuitem">
+         <a data-linkinfo="https://threatenedtaxa.org/jottings/ href="https://threatenedtaxa.org/jottings/ role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://threatenedtaxa.org/ role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://threatenedtaxa.org/jottings/ role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1458,7 +1460,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://threatenedtaxa.org/ role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://threatenedtaxa.org/jottings/ role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1503,10 +1505,10 @@ digitalData.page.pageInfo.pageName = pageName;
           </button>
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu" aria-hidden="true">
            <div class="nv00-gnb-v4__utility-menu-wrap">
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://threatenedtaxa.org/ role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://threatenedtaxa.org/'; return false;">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://threatenedtaxa.org/jottings/ role="menuitem" target="_self" rel="noopener noreferrer" onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://threatenedtaxa.org/jottings/'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://threatenedtaxa.org/ role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://threatenedtaxa.org/jottings/ role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1522,7 +1524,7 @@ digitalData.page.pageInfo.pageName = pageName;
             <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="slot" an-tr="nv00_gnb-product detail-account-account" aria-label="slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://threatenedtaxa.org/ role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="slot" an-tr="nv00_gnb-product detail-account-account" aria-label="slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://threatenedtaxa.org/jottings/ role="menuitem">
               Slot
             </a>
            </div>
@@ -1549,7 +1551,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </svg>
              <p class="user-name"></p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://threatenedtaxa.org/ role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://threatenedtaxa.org/jottings/ role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -2097,10 +2099,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://threatenedtaxa.org/ class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://threatenedtaxa.org/jottings/ class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://threatenedtaxa.org/ class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://threatenedtaxa.org/jottings/ class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2600,7 +2602,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://threatenedtaxa.org/>
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://threatenedtaxa.org/jottings/>
              Add to cart
             </a>
            </div>
@@ -2759,7 +2761,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://threatenedtaxa.org/ target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://threatenedtaxa.org/jottings/ target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -4159,7 +4161,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://threatenedtaxa.org/ class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://threatenedtaxa.org/jottings/ class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -6060,9 +6062,9 @@ digitalData.page.pageInfo.pageName = pageName;
         </div>
 <!-- Article Content -->
 <div class="highlight-box">
-<p style="text-align: justify;"><a href="https://threatenedtaxa.org/">NONO4D</a> menjadi pilihan situs slot88 terbaik dengan menyediakan fasilitas slot gacor paling lengkap dengan minimal bet 200 hari ini yang dapat menjadikan nono4d sebagai situs slot paling mudah dimenangkan hari ini. Situs NONO4D juga menyediakan Live chat yang menjadi aset fasilitas para member agar lebih mudah untuk berkonsultasi atau mengambil bonus gratis secara&nbsp;mudah serta praktis. Live chat dibangun 24jam nonstop agar dapat selalu sedia dalam melayani para member yang sedang mengalami kendala pada saat bermain.</p>
-<p style="text-align: justify;">Nono4d sendiri adalah sebuah situs slot online yang dikeluarkan oleh <a href="https://threatenedtaxa.org/">slot88</a> untuk menjadi slot gacor terbaik yang sengaja dikeluarkan untuk memudahkan masyarakat untuk mengakses website game slot paling gacor dan nono4d menjadi salah satu website yang menyediakan permainan terlengkap hanya dalam satu wadah. NONO4D dapat anda mainkan di segala akses melalui Android, Tablet, Iphone, Laptop dan juga Pc. Karena selain tema yang modern NONO4D juga ringan dan tidak memakan banyak kapasistas, cocok untuk kamu yang suka bermain game slot88 tanpa ngelag dan patah-patah.</p>
-<p style="text-align: justify;"><a href="https://threatenedtaxa.org/">Slot88</a> Tersedia bonus melimpah serta memberikan garansi kekalahan yang tak kalah menarik yaitu. Bonus deposist 50% untuk new member yang baru saja begabung dan ada juga bonus cashback 300% bagi member yang mengalami kekalahan dalam bermain dan masih ada 27 promo lain nya yang dapat anda ambil ketika sudah memenushi syarat ketentuan dalam mengambil bonus.</p>
+<p style="text-align: justify;"><a href="https://threatenedtaxa.org/jottings/">NONO4D</a> menjadi pilihan situs slot88 terbaik dengan menyediakan fasilitas slot gacor paling lengkap dengan minimal bet 200 hari ini yang dapat menjadikan nono4d sebagai situs slot paling mudah dimenangkan hari ini. Situs NONO4D juga menyediakan Live chat yang menjadi aset fasilitas para member agar lebih mudah untuk berkonsultasi atau mengambil bonus gratis secara&nbsp;mudah serta praktis. Live chat dibangun 24jam nonstop agar dapat selalu sedia dalam melayani para member yang sedang mengalami kendala pada saat bermain.</p>
+<p style="text-align: justify;">Nono4d sendiri adalah sebuah situs slot online yang dikeluarkan oleh <a href="https://threatenedtaxa.org/jottings/">slot88</a> untuk menjadi slot gacor terbaik yang sengaja dikeluarkan untuk memudahkan masyarakat untuk mengakses website game slot paling gacor dan nono4d menjadi salah satu website yang menyediakan permainan terlengkap hanya dalam satu wadah. NONO4D dapat anda mainkan di segala akses melalui Android, Tablet, Iphone, Laptop dan juga Pc. Karena selain tema yang modern NONO4D juga ringan dan tidak memakan banyak kapasistas, cocok untuk kamu yang suka bermain game slot88 tanpa ngelag dan patah-patah.</p>
+<p style="text-align: justify;"><a href="https://threatenedtaxa.org/jottings/">Slot88</a> Tersedia bonus melimpah serta memberikan garansi kekalahan yang tak kalah menarik yaitu. Bonus deposist 50% untuk new member yang baru saja begabung dan ada juga bonus cashback 300% bagi member yang mengalami kekalahan dalam bermain dan masih ada 27 promo lain nya yang dapat anda ambil ketika sudah memenushi syarat ketentuan dalam mengambil bonus.</p>
         </div>
                 </div>
         <!-- Reviews Section -->
@@ -6407,42 +6409,42 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     NONO4D
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     SLOT MAXWIN
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     SLOT88 RESMI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     SLOT GACOR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     SLOT ONLINE
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     RTP SLOT88
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     SLOT88 LOGIN
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     PRAGMATIC PLAY
                   </a>
                 </li>
@@ -6467,37 +6469,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Panduan Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Panduan Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Program Referral
                   </a>
                 </li>
@@ -6523,37 +6525,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Live Chat 24/7
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Responsible Gaming
                   </a>
                 </li>
@@ -6594,17 +6596,17 @@ digitalData.page.pageInfo.pageName = pageName;
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Panduan Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Program VIP
                   </a>
                 </li>
@@ -6631,22 +6633,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Panduan Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Panduan Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Kontak Resmi
                   </a>
                 </li>
@@ -6670,22 +6672,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Tentang SLOT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Kenapa Pilih SLOT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://threatenedtaxa.org/ an-as="">
+                  <a class="footer-category__link" href="https://threatenedtaxa.org/jottings/ an-as="">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -6705,7 +6707,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://threatenedtaxa.org/ an-as="">
+            <a class="footer-language__anchor" href="https://threatenedtaxa.org/jottings/ an-as="">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -6713,7 +6715,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://threatenedtaxa.org/ an-as="">
+            <a class="footer-language__anchor" href="https://threatenedtaxa.org/jottings/ an-as="">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -8058,7 +8060,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="scrollbar-horizontal__track" style="display: none;"><div class="scrollbar-horizontal__track-content"><div class="scrollbar-horizontal__bar"></div></div></div><div class="scrollbar-vertical__track" style="display: none;"><div class="scrollbar-vertical__track-content"><div class="scrollbar-vertical__bar"></div></div></div></div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://threatenedtaxa.org/ title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://threatenedtaxa.org/jottings/ title="Tutup">
         Tutup
        </a>
       </div>
@@ -8339,7 +8341,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkläre mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://threatenedtaxa.org/ title="Bestätigen">
+        <a class="cta cta--contained cta--emphasis" href="https://threatenedtaxa.org/jottings/ title="Bestätigen">
          Bestätigen
         </a>
        </div>
@@ -8362,7 +8364,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgfältig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://threatenedtaxa.org/ title="Bestätigen">
+        <a class="cta cta--contained cta--emphasis" href="https://threatenedtaxa.org/jottings/ title="Bestätigen">
          Bestätigen
         </a>
        </div>
@@ -8439,11 +8441,11 @@ digitalData.page.pageInfo.pageName = pageName;
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://threatenedtaxa.org/ role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://threatenedtaxa.org/jottings/ role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://threatenedtaxa.org/ role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://threatenedtaxa.org/jottings/ role="button">
         </a>
        </div>
       </div>
@@ -8509,12 +8511,12 @@ digitalData.page.pageInfo.pageName = pageName;
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://threatenedtaxa.org/ role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://threatenedtaxa.org/jottings/ role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://threatenedtaxa.org/ role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://threatenedtaxa.org/jottings/ role="button">
            Yakin
           </a>
          </div>
@@ -8539,7 +8541,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkläre mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://threatenedtaxa.org/>
+        <a class="cta cta--contained cta--emphasis" href="https://threatenedtaxa.org/jottings/>
          Bestätigen
         </a>
        </div>
@@ -8562,7 +8564,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgfältig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://threatenedtaxa.org/ title="">
+        <a class="cta cta--contained cta--emphasis" href="https://threatenedtaxa.org/jottings/ title="">
          Bestätigen
         </a>
        </div>
@@ -8613,12 +8615,12 @@ digitalData.page.pageInfo.pageName = pageName;
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://threatenedtaxa.org/ role="button">
+          <a class="cta cta--outlined cta--black" href="https://threatenedtaxa.org/jottings/ role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://threatenedtaxa.org/ role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://threatenedtaxa.org/jottings/ role="button">
            Yakin
           </a>
          </div>
