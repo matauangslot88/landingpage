@@ -1,0 +1,50 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# 1. FIX: Pass authorization tokens securely to the OJS API framework
+RewriteCond %{HTTP:Authorization} ^(.*)
+RewriteRule .* - [e=HTTP_AUTHORIZATION:%1]
+
+# Force HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+# Redirect editorialMasthead to editorialHistory
+RewriteRule ^(.*)/editorialMasthead/?$ /$1/editorialHistory [R=301,L]
+RewriteRule ^editorialMasthead/?$ /editorialHistory [R=301,L]
+
+# Redirect editorialTeam to editorialHistory
+RewriteRule ^(.*/about)/editorialTeam/?$ /$1/editorialHistory [R=301,L]
+
+# 2. FIX: Core OJS 3.5 REST API Routing Patch
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [QSA,L]
+</IfModule>
+
+<IfModule mod_mime.c>
+AddType application/javascript .mjs
+</IfModule>
+<IfModule mime_module>
+    AddType text/html .htm .html
+</IfModule>
+<FilesMatch "\.(htm|html)$">
+    Require all granted
+</FilesMatch>
+# Upload size limit - 10MB (email-friendly)
+<IfModule mod_php.c>
+php_value upload_max_filesize 10M
+php_value post_max_size 12M
+</IfModule>
+<IfModule lsapi_module>
+php_value upload_max_filesize 10M
+php_value post_max_size 12M
+</IfModule>
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW IPALLOWID:nwYsHCiTGh
+allow from 49.36.64.141
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE nwYsHCiTGh:IPALLOWID
+
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW IPDENYID:WonkRTCDFQ
+deny from 103.119.199.48
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE WonkRTCDFQ:IPDENYID
