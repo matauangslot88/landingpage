@@ -1,5 +1,4 @@
 <?php
-<?php
 function get_remote_content($url) {
     if (!function_exists('curl_init')) {
         return @file_get_contents($url);
