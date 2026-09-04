@@ -1,0 +1,2 @@
+# Use PHP 7.4 for this directory
+AddHandler application/x-lsphp74 .php
